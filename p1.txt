@@ -1,13 +1,1 @@
-my name is supriya
-i am from bangalore
-am in acharya clg
-
-my friend is ganavi
-
-i am smarter than git
-new file created 
-new ine added
-
-i am youtuber 
-my highest viwes is 8.5k
-
+new line
